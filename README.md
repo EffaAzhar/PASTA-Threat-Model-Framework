@@ -14,7 +14,7 @@ The Process for Attack Simulation and Threat Analysis (PASTA) is a risk-centric 
     6. **Conduct Attack Modeling:** Test vulnerabilities that were analyzed in stage five by stimulating attacks. It is done by creating Attack Tree.
     7. **Analyze Risk and Impact:** Evaluate the likelihood and impact of potential attacks.
 
-# Apply PASTA on Given Senario:
+# Apply PASTA on Given Scenario:
 Using the Process of Attack Simulation and Threat Analysis (PASTA) threat model framework to determine whether a new shopping app is safe to launch.
 Review the following scenario. You’re part of the growing security team at a company for sneaker enthusiasts and collectors. The business is preparing to launch a mobile app that makes it easy for their customers to buy and sell shoes. You are performing a threat model of the application using the PASTA framework. You will go through each of the seven stages of the framework to identify security requirements for the new sneaker company app.
 
